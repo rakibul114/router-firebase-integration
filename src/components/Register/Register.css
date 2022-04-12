@@ -1,0 +1,16 @@
+.register-container{
+    width: 50%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    
+}
+.form-title{
+    text-align: center;
+}
+.form-elements input{
+    width: 250px;
+    margin: 10 auto;
+    padding: 10px;
+   
+}
